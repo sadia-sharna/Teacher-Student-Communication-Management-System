@@ -1,5 +1,5 @@
 # Teacher-Student-Communication-Management-System
-This is a PL-SQL project.
+This is a database project and PL-SQL language is used.
 
 INTRODUCTION
 
